@@ -2,6 +2,13 @@
 
 This is a Library app which fetches book information from an api and displays it individually. It is a responsive website made with FrontEnd framework ReactJS.
 
+## Install
+
+```bash
+npm install @splinetool/react-spline
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
