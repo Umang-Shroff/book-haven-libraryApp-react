@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a Library app which fetches book information from an api and displays it individually. It is a responsive website made with FrontEnd framework ReactJS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # book-haven-libraryApp-react
-# book-haven-libraryapp-react
