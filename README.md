@@ -3,7 +3,7 @@
 This is a Library app which fetches book information from an api and displays it individually. It is a responsive website made with FrontEnd framework ReactJS.
 
 ## Install
-
+Install Spline 
 ```bash
 npm install @splinetool/react-spline
 ```
